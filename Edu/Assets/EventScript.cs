@@ -4,13 +4,24 @@ using UnityEngine;
 
 public class EventScript : MonoBehaviour
 {
-    // Start is called before the first frame update
+    // 초기화를 위한 함수
+    void Awake()
+    { 
+        
+    }
+
     void Start()
     {
         
     }
 
-    // Update is called once per frame
+    void OnEnable()
+    {
+
+    }
+
+
+    // 업데이트를 위한 함수
     void Update()
     {
         
