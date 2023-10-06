@@ -26,4 +26,21 @@ public class EventScript : MonoBehaviour
     {
         
     }
+
+    void LateUpdate()
+    {
+
+    }
+
+    void FixedUpdate()
+    {
+
+    }
+
+
+    // 오브젝트 파괴 함수
+    void OnDestroy()
+    {
+
+    }
 }
