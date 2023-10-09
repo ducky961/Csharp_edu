@@ -43,4 +43,15 @@ public class EventScript : MonoBehaviour
     {
 
     }
+
+    //종료를 위한 함수
+    void OnApplicationQuit() 
+    {
+    
+    }
+
+    void Disable()
+    {
+
+    }
 }
