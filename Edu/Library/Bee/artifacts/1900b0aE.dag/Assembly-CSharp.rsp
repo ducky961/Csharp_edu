@@ -355,6 +355,7 @@
 "Assets/Controller.cs"
 "Assets/EventScript.cs"
 "Assets/GameManager.cs"
+"Assets/NewBehaviourScript.cs"
 -langversion:9.0
 
 /deterministic
